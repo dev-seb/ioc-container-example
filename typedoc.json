@@ -1,0 +1,5 @@
+{
+  "name": "IoC Container Example",
+  "entryPoints": ["./src/index.ts"],
+  "out": "doc/"
+}
